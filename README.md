@@ -3,5 +3,5 @@ Javascript assignment
 
 ## Screenshots 
 
-![first](/screenshots/first.png).
+![first](/screenshots/start.png).
 ![second](/screenshots/second.png).
