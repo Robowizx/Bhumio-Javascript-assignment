@@ -1,0 +1,99 @@
+body{
+  margin: 10vh 0 0 10vh;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50vw;
+}
+
+th{
+  font-size: x-large;
+  color:white;
+  background: #3399ff; 
+}
+
+table, th {
+  border: 2px solid #0066cc;
+}
+
+#NoHeader{
+  width:10%;
+}
+
+#nodata{
+  text-align: right;
+  font-size: large; 
+  padding: 5vh 0 5vh 0;
+}
+
+#btnDiv{
+  padding-top: 3vh;
+}
+
+.table-header{
+  width:45%;
+}
+
+#formHeader{
+  margin: 3vh 0 3vh 3vh;
+}
+
+.form-label-pad{
+  padding-right: 10px;
+}
+
+.text-dark{
+  color: #0066cc;
+}
+
+.cell-style{
+  padding-top: 5px;
+  padding-left: 0.5vw;
+  border: 2px solid #0066cc;
+}
+
+.cell-style:hover{
+  background-color: rgb(200,200,200);
+}
+
+form {
+  width: 100%;
+}
+
+#formContainer{
+  margin-top: 3vh;
+  width:20vw;
+  border:2px solid #0066cc;
+  visibility: hidden;
+}
+
+#add{
+  height:5vh;
+  width: 10vw;
+  font-size:large;
+}
+
+#submit{
+  height:3vh;
+  width: 5vw;
+  font-size: small;
+}
+
+.btn{
+  border: 2px solid #0066cc;
+  color: #0066cc;
+  background:white;
+  transition: background 0.25s;
+}
+
+.btn:hover{
+  background: #0066cc;
+  color: white;
+}
+
+.form-item{
+  margin: 3vh 0 3vh 3vh;
+  display: flex;
+  justify-content: center;
+}
